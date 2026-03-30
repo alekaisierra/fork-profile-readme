@@ -2,7 +2,6 @@
 
 ## 🧠 About Me
 I am a full-time Apple employee working as a Support Advisor, and a part-time UTSA student working to earn a degree in cybersecurity. I am considered a post bach student at UTSA since I earned a bachelor's degree in psychology in 2022. 
-
 Outside of work and school, I love to spend time with my fiancé and explore different places not only in San Antonio but wherever we can. I like to play soccer and watch movies and shows, and in the future I hope to get a dog and spend more time outside!
 
 ## ⚒️ Skills
@@ -29,5 +28,4 @@ Outside of work and school, I love to spend time with my fiancé and explore dif
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekai-sierra)
 
 ---
-
 _"Every morning we are born again. What we do today is what matters most." – Buddha_
